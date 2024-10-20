@@ -1,1 +1,1 @@
-puts "hola care cornet"
+puts "hola care corneta"
